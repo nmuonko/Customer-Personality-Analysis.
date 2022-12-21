@@ -1,4 +1,4 @@
-![This is an image](https://github.com/arienugroho050396/Customer-Personality-Analysis/blob/main/header.png)
+![This is an image](https://github.com/nmuonko/Customer-Personality-Analysis./blob/main/CustomerPic.png)
 
  
 [*Here you can download the cheatsheet*](https://www.kaggle.com/imakash3011/customer-personality-analysis)  
